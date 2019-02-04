@@ -3,9 +3,9 @@ class Database
 {
 	// these are not the real passwords
 	// for real passwords, see file in ../database subdirectory
-	private static $dbName = 'crud_tutorial' ; 
-	private static $dbHost = 'localhost' ;
-	private static $dbUsername = 'root';
+	private static $dbName = '10.8.30.49' ; 
+	private static $dbHost = 'dplubons355wi19' ;
+	private static $dbUsername = 'dplubons355wi19';
 	private static $dbUserPassword = 'root';
 	
 	private static $cont  = null;
