@@ -9,6 +9,7 @@
 <body>
     <div class="container">
     		<div class="row">
+			<a href="https://github.com/dplubons/PhpProject1">Github Repo</a>
     			<h3>PHP CRUD Grid</h3>
     		</div>
 			<div class="row">
